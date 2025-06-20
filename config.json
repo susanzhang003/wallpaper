@@ -1,0 +1,29 @@
+{
+    "categories": [
+      { "id": "free", "name": "免费" },
+      { "id": "nature", "name": "自然" }
+    ],
+    "wallpapers": [
+        {
+            "id": "pexels-hikaique-775203",
+            "title": "免费壁纸",
+            "thumbUrl": "https://cdn.jsdelivr.net/gh/susanzhang003/wallpaper@main/free/pexels-hikaique-775203.jpg",
+            "fullUrl": "https://cdn.jsdelivr.net/gh/susanzhang003/wallpaper@main/free/pexels-hikaique-775203.jpg",
+            "type": "static",
+            "tags": ["免费"],
+            "isFree": true,
+            "isSeasonal": false
+        },
+      {
+        "id": "pexels-skyler-ewing-266953-11523672",
+        "title": "自然壁纸",
+        "thumbUrl": "https://cdn.jsdelivr.net/gh/susanzhang003/wallpaper@main/nature/pexels-skyler-ewing-266953-11523672.jpg",
+        "fullUrl": "https://cdn.jsdelivr.net/gh/susanzhang003/wallpaper@main/nature/pexels-skyler-ewing-266953-11523672.jpg",
+        "type": "static",
+        "tags": ["自然"],
+        "isFree": false,
+        "isSeasonal": false
+      }
+
+    ]
+  }
